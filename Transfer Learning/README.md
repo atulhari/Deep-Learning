@@ -1,5 +1,5 @@
 
-This project involve:
+This project involves:
 
  Visualizing the convolutional neural network
   o Activation (heat) maps
